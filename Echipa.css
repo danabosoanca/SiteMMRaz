@@ -1,0 +1,47 @@
+.u-section-1 {background-image: none}
+.u-section-1 .u-sheet-1 {min-height: 610px}
+.u-section-1 .u-text-1 {font-family: Alata; font-size: 4.5rem; animation-duration: 1000ms; text-shadow: 0 -2px 8px rgba(128,128,128,1); margin: 20px auto 0}
+.u-section-1 .u-social-icons-1 {white-space: nowrap; height: 26px; min-height: 16px; width: 164px; min-width: 124px; margin: 412px auto 0}
+.u-section-1 .u-icon-1 {height: 100%}
+.u-section-1 .u-icon-2 {height: 100%}
+.u-section-1 .u-icon-3 {height: 100%}
+.u-section-1 .u-icon-4 {height: 100%}
+.u-section-1 .u-list-1 {min-height: 416px; grid-gap: 10px 10px; grid-template-columns: calc(33.3333% - 7px) calc(33.3333% - 7px) calc(33.3333% - 7px); grid-template-rows: auto; margin: -416px auto 0 0}
+.u-section-1 .u-container-layout-1 {padding: 30px}
+.u-section-1 .u-image-1 {width: 290px; height: 290px; background-image: url("images/pexels-pixabay-220453.jpg"); background-position: 50% 50%; margin: 0 auto}
+.u-section-1 .u-text-2 {text-shadow: 0 -2px 8px rgba(128,128,128,1); animation-duration: 1000ms; margin: 20px 0 0}
+.u-section-1 .u-container-layout-2 {padding: 30px}
+.u-section-1 .u-image-2 {width: 290px; height: 290px; background-image: url("images/pexels-christina-morillo-1181424.jpg"); background-position: 50% 50%; margin: 0 auto}
+.u-section-1 .u-text-3 {text-shadow: 0 -2px 8px rgba(128,128,128,1); animation-duration: 1000ms; margin: 20px 0 0}
+.u-section-1 .u-container-layout-3 {padding: 30px}
+.u-section-1 .u-image-3 {width: 290px; height: 290px; background-image: url("images/pexels-andrea-piacquadio-874158.jpg"); background-position: 50% 50%; margin: 0 auto}
+.u-section-1 .u-text-4 {text-shadow: 0 -2px 8px rgba(128,128,128,1); animation-duration: 1000ms; margin: 20px 0 0}
+.u-section-1 .u-social-icons-2 {white-space: nowrap; height: 26px; min-height: 16px; width: 164px; min-width: 124px; margin: -26px auto 0 97px}
+.u-section-1 .u-icon-5 {height: 100%}
+.u-section-1 .u-icon-6 {height: 100%}
+.u-section-1 .u-icon-7 {height: 100%}
+.u-section-1 .u-icon-8 {height: 100%}
+.u-section-1 .u-social-icons-3 {white-space: nowrap; height: 26px; min-height: 16px; width: 164px; min-width: 124px; margin: -33px 106px 60px auto}
+.u-section-1 .u-icon-9 {height: 100%}
+.u-section-1 .u-icon-10 {height: 100%}
+.u-section-1 .u-icon-11 {height: 100%}
+.u-section-1 .u-icon-12 {height: 100%} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 537px}
+.u-section-1 .u-social-icons-1 {margin-top: -111px}
+.u-section-1 .u-list-1 {min-height: 343px; margin-top: 107px; height: auto; margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-1 {width: 232px; height: 232px}
+.u-section-1 .u-image-2 {width: 232px; height: 232px}
+.u-section-1 .u-image-3 {width: 232px; height: 232px} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 982px}
+.u-section-1 .u-social-icons-1 {margin-top: 334px}
+.u-section-1 .u-list-1 {min-height: 788px; grid-template-columns: calc(((100% - 720px) / 2) + 355px) calc(((100% - 720px) / 2) + 355px); margin-top: -338px; margin-right: initial; margin-left: initial} }
+
+@media (max-width: 767px){ .u-section-1 .u-social-icons-1 {margin-top: 574px}
+.u-section-1 .u-list-1 {grid-template-columns: 100%; margin-top: -578px; margin-right: initial; margin-left: initial}
+.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-3 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-1 .u-text-1 {font-size: 2.25rem} }
